@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BucketDrop</string>
+    <string name="str_add_drop">Add Drop</string>
+    <string name="sans_serif_thin">sans_serif_thin</string>
+    <string name="hint_et_drop">What is it</string>
+    <string name="str_add_it">Add it</string>
+    <string name="this_is_logo">BucketDrop_logo</string>
+    <string name="BucketLogo">BucketLogo</string>
+    <string name="this_is_text_here">This is text here</string>
+    <string name="when">when</string>
+</resources>
